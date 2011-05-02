@@ -1,0 +1,12 @@
+	
+BODY {
+	font-family: verdana, arial, sans-serif;
+}
+
+PRE.code {
+	font-family: monospace;
+	background-color: #eeeeee;
+	border: thin solid #000000;
+	margin: 10px;
+	padding: 5px;
+};
